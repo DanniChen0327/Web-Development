@@ -1,0 +1,6 @@
+img{
+	/*three pics a line for 90% of screen and 10% for 6 margins.*/
+	width : 30%;
+	float: left;
+	margin : 1.66%; 
+}
