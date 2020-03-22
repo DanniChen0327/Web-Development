@@ -1,0 +1,40 @@
+body{
+	padding-top: 70px;
+
+}
+.navbar-inverse{
+	background: #505040;
+	padding-right:10px;
+}
+
+.navbar-inverse .navbar-nav>li>a{
+	color: #e0e0e0;
+	font-size:15px;
+}
+
+.navbar-inverse .navbar-brand {
+	color: #e0e0e0;
+	font-size:20px;
+}
+.jumbotron{
+	color:#695040;
+	background: #ecf0f1;
+
+}
+
+.glyphicon-heart{
+	color:#c95040;
+	font-size:50px;
+}
+
+.glyphicon-king{
+	color:white;
+	font-size:18px;
+}
+
+img {
+  width: 100%;
+  height: 250px;
+  background-size: cover;
+  background-position: center;
+}

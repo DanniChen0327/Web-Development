@@ -1,0 +1,21 @@
+#header{
+	background-image: url(https://source.unsplash.com/Sw7f58YJbc0);
+	background-size: cover;
+	background-position: center;
+
+}
+
+.navbar{
+	background-color: #BA55D3;
+}
+
+
+h1{
+	color:#8B008B;
+	font-family: Lora;
+}
+
+.lead{
+	color:#9932CC;
+	font-family: Lora;
+}

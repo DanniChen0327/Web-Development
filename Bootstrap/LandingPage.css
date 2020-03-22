@@ -1,0 +1,46 @@
+body{
+	background: url(https://source.unsplash.com/Dmu5ZaeTIgY);
+	background-size: cover;
+	background-position: center;
+	font-family: open sans;
+	
+}
+html{
+	height:100%;
+}
+
+hr.style-two {
+    border: 0;
+    height: 1px;
+    background-image: linear-gradient(to right, rgba(255, 255, 255, 0), rgba(255, 255, 255, 0.75), rgba(255, 255, 255, 0));
+}
+
+.navbar-default{
+	padding:10px;
+	font-size:15px;
+}
+
+#content{
+	text-align: center;
+	padding-top:20%;
+	text-shadow:0px 4px 3px rgba(0,0,0,0.4),
+				0px 8px 13px rgba(0,0,0,0.1),
+				0px 18px 23px rgba(0,0,0,0.1);
+}
+
+h1{
+	font-weight: 700;
+	font-size: 4em;
+	color: white;
+}
+
+h3{
+	color: white;
+}
+
+.btn-default {
+	background-color: #FFF0F5;
+	color:#4B0082;
+	text-shadow:0px 4px 3px rgba(0,0,0,0.2);
+}
+
